@@ -3,3 +3,13 @@ C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\De
 C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\Hom31.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\Hom31.AssemblyInfo.cs
 C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\Hom31.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\bin\Debug\net6.0\Hom31.exe
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\bin\Debug\net6.0\Hom31.deps.json
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\bin\Debug\net6.0\Hom31.runtimeconfig.json
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\bin\Debug\net6.0\Hom31.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\bin\Debug\net6.0\Hom31.pdb
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\Hom31.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\refint\Hom31.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\Hom31.pdb
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\Hom31.genruntimeconfig.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom31\obj\Debug\net6.0\ref\Hom31.dll

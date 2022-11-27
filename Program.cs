@@ -4,7 +4,7 @@
 void PowerNumber (int a , int b)
 {
  int result = 1;
-  for( int i = 1; i < b; i++) 
+  for( int i = 1; i < b+1; i++) 
  {
     result =result * a;
  }
