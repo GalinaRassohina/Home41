@@ -8,10 +8,10 @@ void PowerNumber (int a , int b)
  {
     result =result * a;
  }
- Console.WritLine(result);
+ Console.WriteLine($"{a}^{b } = {result}");
 }
 PowerNumber(3, 5);
 
-//Console.WritLine($"{a}^{b } = {result}");
+
 
 
